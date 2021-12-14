@@ -19,7 +19,4 @@ Script generates signals to buy or sell based on 10 day max or 20 day low, respe
 
 ## Data updates
 
-Cron job will update the existing tickers after market close. 
-
-
-
+Cron job will update the existing tickers after market close and update the signals. 
